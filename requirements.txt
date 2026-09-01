@@ -1,0 +1,12 @@
+earthengine-api==1.7.39
+geemap==0.38.3
+contextily==1.7.1
+numpy==2.5.2
+pandas==3.0.5
+geopandas==1.1.4
+matplotlib==3.11.1
+statsmodels==0.14.6
+Pillow==12.3.0
+requests==2.34.2
+ipykernel==7.3.0
+python-dotenv==1.2.3
