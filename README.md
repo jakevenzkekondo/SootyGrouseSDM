@@ -2,7 +2,7 @@
 
 This project is a species distribution model (SDM) predicting Sooty Grouse (*Dendragapus fuliginosus*) breeding and brood-rearing season habitat suitability across Oregon, implemented in a Jupyter notebook using Google Earth Engine and a Random Forest classifier. The model produces two outputs: a continuous **habitat suitability map** (mean predicted probability of occurrence across 10 spatial cross-validation folds, 0–1) and a binary **potential distribution map** (majority-vote predicted presence/absence across the same 10 folds). This model was developed as a passion project with the goal of supporting conservation efforts of the Sooty Grouse in the study area. 
 
-Full methodology, results, and discussion are available in [`Report.pdf`](./Report.pdf).
+Full methodology, results, and discussion are available in [`Sooty_Grouse_SDM_Report.pdf`](./Sooty_Grouse_SDM_Report.pdf).
 
 ## Overview
 
